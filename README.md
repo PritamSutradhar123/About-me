@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PritamSutradhar123
+- 👋 Hi, I’m Pritam Sutradhar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python and Mysql
 - 😄 Pronouns: he/him
